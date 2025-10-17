@@ -56,6 +56,7 @@ require (
 	github.com/quic-go/quic-go v0.54.0
 	github.com/quic-go/webtransport-go v0.9.0
 	github.com/stretchr/testify v1.10.0
+	github.com/wlynxg/anet v0.0.5
 	go.uber.org/fx v1.24.0
 	go.uber.org/goleak v1.3.0
 	go.uber.org/mock v0.5.2
@@ -99,7 +100,6 @@ require (
 	github.com/prometheus/procfs v0.16.1 // indirect
 	github.com/quic-go/qpack v0.5.1 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
-	github.com/wlynxg/anet v0.0.5 // indirect
 	go.uber.org/dig v1.19.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/exp v0.0.0-20250606033433-dcc06ee1d476 // indirect
